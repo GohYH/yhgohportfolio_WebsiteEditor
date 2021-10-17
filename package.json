@@ -1,0 +1,13 @@
+{
+  "name": "yhgohportfolio_contenteditor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://GohYH.github.io/yhgohportfolio_WebsiteEditor",
+  "scripts": {
+    "deploy": "gh-pages -d dist"  
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
