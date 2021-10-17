@@ -496,6 +496,7 @@ p.card-bottom{
     align-items: center;
     justify-self: right;
     visibility: hidden;
+    padding-bottom: 2%;
 }
 .last-container-AM{
     visibility: hidden;
@@ -1078,10 +1079,10 @@ box-shadow: var(--shadow);
         .second-container-AM{
             grid-template-columns: 0 100%;   
         }
-        .last-container{
+        /* .last-container{
             margin-top: 10%;
             padding-bottom: 5%;
-        }
+        } */
         .myWork-link{      
             font-size: 1.5em; 
             /* reduced */
